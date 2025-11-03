@@ -1,2 +1,3 @@
 # Demo-Project
-First GitHub project
+First GitHub project.
+Author - Anannya Wakalkar
